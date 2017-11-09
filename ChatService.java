@@ -23,7 +23,7 @@ public class ChatService {
 			if (clientMes.equals("exit"))
 				observer.onCompleted();
 		}
-
+//comment added by shan
   }
 
 }

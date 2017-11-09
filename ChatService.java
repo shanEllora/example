@@ -23,7 +23,6 @@ public class ChatService {
 			if (clientMes.equals("exit"))
 				observer.onCompleted();
 		}
-
 		
 		 public static void main(String[] args)
 			{	String s1 = "Computer Science";
